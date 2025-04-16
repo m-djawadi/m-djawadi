@@ -32,9 +32,6 @@ Check out my projects on [GitHub →](https://github.com/m-djawadi?tab=repositor
   <a href="https://kaggle.com/djawadi" target="_blank" title="Kaggle">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" style="margin-right:10px;" />
   </a>
-  <a href="https://github.com/m-djawadi" target="_blank" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" style="margin-right:10px;" />
-  </a>
   <a href="https://x.com/mahdi_javadi" target="_blank" title="X (formerly Twitter)">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" height="40" style="margin-right:10px;" />
   </a>
