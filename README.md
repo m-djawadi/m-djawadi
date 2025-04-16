@@ -1,35 +1,16 @@
-# Mahdi Javadi
+# Hi there! I'm Mahdi 👋
 
-## Data Scientist & Researcher
-
-🔍 **Professional Focus:** Transforming complex data into actionable insights and developing impactful solutions.
-
-🧠 **Research Interests:** Large Language Models, Time Series Forecasting, Causal Inference
-
-🔭 **Current Projects:**
-- Load Forecasting Dashboard Implementation
-- RAG-based Financial Report Analysis System
-- Data-driven Influencer Pricing Model Development
-
-📊 **Impact Areas:** Human-centered AI applications in Healthcare, Marketing Analytics, and HR Intelligence
-
-👥 **Collaboration Opportunities:** Open to projects involving Machine Learning, Retrieval-Augmented Generation, or Visual Analytics implementations using Streamlit, Power BI, or Azure.
-
-🎓 **Education:** 
-- MSc in Data Science
-- MSc & BSc in Industrial Engineering
-
-💬 **Professional Mentorship:** Available to discuss career transitions into data science, technical portfolio development, and academic pathways.
-
-## Technical Expertise
-
-**Languages & Tools:**  
-Python • SQL • R • Streamlit • Power BI • Flask • Docker • Azure • Git • scikit-learn • XGBoost • Selenium
-
+🙋‍♂️ About Me: I'm a data scientist and engineer with a passion for solving complex problems and building impactful tools. My work bridges analytics, machine learning, and real-world decision-making.
+🧠 Always Learning: Deeply curious and constantly exploring—currently into LLMs, forecasting, and causal analysis.
+🤝 Collaborative by Nature: I enjoy building things that matter—especially with others.
+🎓 Background: I hold an MSc in Data Science and dual degrees in Industrial Engineering (MSc & BSc).
+💬 Let’s Connect: Happy to chat about data science journeys, research ideas, or cool side projects.
 ---
 
 ### 📁 Portfolio  
-All projects are available on [GitHub](https://github.com/m-djawadi) and showcased at [m-djawadi.github.io](https://m-djawadi.github.io/)
+All projects are on [GitHub Repo](https://github.com/m-djawadi?tab=repositories). 
+---
+
 
 ### 🚀 Languages
 <p>
@@ -40,15 +21,19 @@ All projects are available on [GitHub](https://github.com/m-djawadi) and showcas
 
 ---
 
-### 🌐 Connect
-<p>
+### 🌐 Connect with Me  
+<p align="left">
   <a href="https://www.linkedin.com/in/m-javadi/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" style="margin-right:10px;" />
   </a>
-  <a href="https://www.kaggle.com/djawadi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30"/>
+  <a href="https://kaggle.com/djawadi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle" style="margin-right:10px;" />
   </a>
-  <a href="mailto:themahdijavadi@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/apple-mail.png" height="30"/>
+  <a href="https://github.com/m-djawadi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" style="margin-right:10px;" />
+  </a>
+  <a href="https://x.com/mahdi_javadi" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" height="40" alt="X" style="margin-right:10px;" />
   </a>
 </p>
+
