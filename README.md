@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mahdi
 
 ### 🙋‍♂️ About Me  
-I'm a data scientist and engineer passionate about solving complex problems and building impactful tools. My work bridges analytics, machine learning, and real-world decision-making.
+I'm a data scientist/analyst and engineer passionate about solving complex problems and building impactful tools. My work bridges analytics, machine learning, and real-world decision-making.
 
 - 🧠 **Always Learning**: Currently diving into LLMs, time series forecasting, and causal inference.  
 - 🤝 **Collaborative by Nature**: I love building meaningful projects—especially with others.  
